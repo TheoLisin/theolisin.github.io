@@ -6,7 +6,7 @@
         "email": "theo.lisin@gmail.com",
         "phone": "374 (93) 717-837",
         "url": "https://theolisin.github.io",
-        "summary": "It took me around two years to realise that I liked programming in general and data science in particular. Since taking the Yandex classes, well-written, readable code has become my intention. My current focus is creating products that benefit or facilitate the lives of people, not just reviewers.",
+        "summary": "It took me around two years to realise that I like programming in general and data science in particular. Since taking the Yandex classes, well-written, readable code has become my intention. My current focus is creating products that benefit or facilitate the lives of people, not just reviewers.",
         "location": {
             "address": "",
             "postalCode": "0069",
@@ -89,7 +89,7 @@
             "level": "Intermediate",
             "keywords": [
                 "sklearn",
-                "torch",
+                "PyTorch",
                 "statistics",
                 "linear algebra"
             ]
