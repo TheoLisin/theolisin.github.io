@@ -1,8 +1,8 @@
 {
     "name": "personal-site",
     "version": "0.0.3",
-    "repository": "git@github.com:mrdimfox/mrdimfox.github.io.git",
-    "author": "Lisin D. <mrlisdim@gmail.com>",
+    "repository": "https://github.com/TheoLisin/theolisin.github.io.git",
+    "author": "Lisin F. <theo.lisin@gmail.com>",
     "license": "MIT",
     "dependencies": {
         "resume-cli": "^3.0.7",
