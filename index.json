@@ -1,125 +1,113 @@
 {
     "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/schema.json",
     "basics": {
-        "name": "Dmitrii Lisin",
-        "label": "Software Programmer, Embedded Programmer",
-        "image": "https://raw.githubusercontent.com/mrdimfox/mrdimfox.github.io/master/assets/avatar.jpg",
-        "email": "mrlisdim@gmail.com",
-        "phone": "8 (999) 529-5331",
-        "url": "https://dlisin.tk",
-        "summary": "Since childhood, I've been in love with programming. When I began my career as an intern at an electronics design firm, I discovered that I enjoyed creating something that worked in real life rather than just inside my computer. I have finished a lot of embedded projects from different spheres and dealt with numerous instruments, protocols, and peripherals. It has always been my intention to write only high-quality, human-readable code. Had prior team leadership experience, but preferred to work as an equal member of the team. In my free time, I also prefer to extend my knowledge of programming languages, techniques, and trends by working with hobby projects.",
+        "name": "Fedor Lisin",
+        "label": "Junior Data Scientist",
+        "email": "theo.lisin@gmail.com",
+        "phone": "374 (93) 717-837",
+        "url": "https://theolisin.github.io",
+        "summary": "It took me around two years to realise that I liked programming in general and data science in particular. Since taking the Yandex classes, well-written, readable code has become my intention. My current focus is creating products that benefit or facilitate the lives of people, not just reviewers.",
         "location": {
             "address": "",
-            "postalCode": "190000",
-            "city": "Saint Petersburg",
-            "countryCode": "RU",
-            "region": "Saint Petersburg"
+            "postalCode": "0069",
+            "city": "Yerevan",
+            "countryCode": "AM",
+            "region": "Yerevan"
         },
         "profiles": [
             {
-                "network": "Twitter",
-                "username": "mrlisdim",
-                "url": "https://twitter.com/mrlisdim"
-            },
-            {
                 "network": "Github",
-                "username": "mrdimfox",
-                "url": "https://github.com/mrdimfox"
+                "username": "TheoLisin",
+                "url": "https://github.com/TheoLisin"
             },
             {
                 "network": "Telegram",
-                "username": "@mrlisdim",
-                "url": "https://t.me/mrlisdim"
+                "username": "@TedFox",
+                "url": "https://t.me/TedFox"
             },
             {
                 "network": "LinkedIn",
-                "username": "dmitrii-lisin",
-                "url": "https://www.linkedin.com/in/dmitrii-lisin/"
+                "username": "theo-lisin",
+                "url": "https://www.linkedin.com/in/theo-lisin/"
             }
         ]
     },
     "work": [
         {
-            "name": "LLC \"Third Pin\"",
-            "position": "Team leader",
-            "url": "https://en.thirdpin.io/",
-            "startDate": "2020",
-            "summary": "Developed a flexible testing system for embedded electronics based on distributed micro-services connected by PubSub/RPC Web-protocol.",
+            "name": "OCRV, Russian Railways affiliated company",
+            "position": "Junior Data Scientist",
+            "url": "https://www.ocrv.ru/",
+            "startDate": "2021-09",
+            "endDate": "2022-09",
+            "summary": "Developed different models from scratch for tabular data and time series, upgraded the current data infrastructure, supervised the students' self-study pet projects.",
             "highlights": [
-                "Robster: flexible testing system for electronic devices (Python, WAMP, Microservice, Docker, PostgreSQL)",
-                "Gate valve controller (ARM, STM32, Zephyr, Modbus)",
-                "GPS tracker for a professional training (ARM, Nordic, GPS, UBlox, Ant)"
-            ]
-        },
-        {
-            "name": "LLC \"Third Pin\"",
-            "position": "Embedded Software Developer",
-            "url": "https://en.thirdpin.io/",
-            "startDate": "2013-01-01",
-            "endDate": "2020",
-            "summary": "Have been finished more than 20 commercial projects in embedded area including IoT, safety systems, shipbuilding.",
-            "highlights": [
-                "Pastilda: hardware password manager (STM32, ARM, Crypto Peripheral, SDIO, FatFS, FreeRTOS)",
-                "Ship ruder control system (ARM, STM32, USB HID, FreeRTOS)",
-                "Fire alarm system (ARM, STM32)",
-                "MTUTA: Telemetry of vending machines (ARM, FreeRTOS, USB, SD, SIMCom, GSM, Ethernet, FTP)"
+                "Train delay investigation system: improving data infrastructure, time to create the final dataset was at least cut in half. (Catboost, SQL, ClickHouse)",
+                "EEG motor imaginary classification: examining the primary methods for getting, classifying, and filtering EEG data, as well as developing experimental data collection methods. (ICA, SSP, WPD)",
+                "Recommendation system for ticket sales (students project): aided students in using their repository and fixed django framework issues. (Git, Conda, Django)"
             ]
         }
     ],
     "volunteer": [],
     "education": [
         {
-            "institution": "ITMO University",
-            "url": "https://en.itmo.ru/",
-            "area": "Intelligent Technologies in Robotics",
-            "studyType": "Master",
+            "institution": "St. Petersburg Academic University of RAS",
+            "url": "https://spbau.ru/",
+            "area": "Theoretical Physics",
+            "studyType": "Bachelor",
             "startDate": "2016",
-            "endDate": "2018",
+            "endDate": "2020",
+            "score": "4.3/5.0",
             "courses": []
         },
         {
-            "institution": "ITMO University",
-            "url": "https://en.itmo.ru/",
-            "area": "Intelligent Technologies in Robotics",
-            "studyType": "Bachelor",
-            "startDate": "2012",
-            "endDate": "2016",
+            "institution": "MADE Data Academy",
+            "url": "https://data.vk.company/",
+            "area": "Data Science, MLOps",
+            "startDate": "2022",
+            "endDate": "2023",
             "courses": []
         }
     ],
     "awards": [],
-    "certificates": [],
+    "certificates": [
+        {
+            "name": "Machine learning | course authored by Stanford University",
+            "date": "2020-07-25",
+            "url": "https://coursera.org/share/fcf17fea90f4868b828c71c2cad3ff7c",
+            "issuer": "Coursera, Stanford University"
+        },
+        {
+            "name": "Artificial Intelligence Technology | 6-month course",
+            "date": "2021-08-10",
+            "issuer": "Yandex School of data analysis"
+        }
+    ],
     "publications": [],
     "skills": [
         {
-            "name": "Embedded Development",
-            "level": "Master",
+            "name": "ML and Data Science",
+            "level": "Intermediate",
             "keywords": [
-                "C/C++",
-                "Zephyr",
-                "FreeRTOS",
-                "STM32",
-                "Nordic",
-                "Real-time protocols",
-                "Industrial protocols",
-                "Stack only programming"
+                "sklearn",
+                "torch",
+                "statistics",
+                "linear algebra"
             ]
         },
         {
             "name": "Python Development",
-            "level": "Advanced",
+            "level": "Intermediate",
             "keywords": [
                 "FastAPI",
                 "Pydantic",
                 "ORM",
-                "WAMP protocol",
-                "Async",
-                "Threading"
+                "SQLAlchemy",
+                "ML frameworks"
             ]
         },
         {
             "name": "CI/CD",
-            "level": "Intermediate",
+            "level": "Beginner",
             "keywords": [
                 "Docker",
                 "Docker Compose",
@@ -128,24 +116,8 @@
             ]
         },
         {
-            "name": "Web Development",
-            "level": "Intermediate",
-            "keywords": [
-                "HTML",
-                "CSS",
-                "JavaScript",
-                "Typescript",
-                "React",
-                "Parcel",
-                "Rollup"
-            ]
-        },
-        {
-            "name": "Rust",
-            "level": "Beginner",
-            "keywords": [
-                "Tauri"
-            ]
+            "name": "C/C++",
+            "level": "Beginner"
         },
         {
             "name": "Common",
@@ -155,16 +127,14 @@
                 "Gitlab",
                 "Github",
                 "Reviewing",
-                "Linux",
-                "Reading schematics",
-                "Datasheet exploring"
+                "Linux"
             ]
         }
     ],
     "languages": [
         {
             "language": "English",
-            "fluency": "Fluent"
+            "fluency": "Intermediate"
         },
         {
             "language": "Russian",
@@ -177,55 +147,42 @@
             "keywords": []
         },
         {
-            "name": "Books",
-            "keywords": []
+            "name": "Airplanes",
+            "keywords": [
+                "PPL"
+            ]
         },
         {
             "name": "Traveling",
-            "keywords": []
-        },
-        {
-            "name": "Hobby programming",
             "keywords": []
         }
     ],
     "references": [],
     "projects": [
         {
-            "name": "Pastilda",
-            "summary": "Open-source hardware designed to manage our credentials in handy and secure way.",
-            "highlights": [],
-            "keywords": [
-                "C++",
-                "Embedded",
-                "Open-source"
+            "name": "Voice emotion recognition using Wav2Vec",
+            "summary": "Speech emotion recognition model based on Wav2Vec with telegam-bot user interface.",
+            "highlights": [
+                "Trained 8-class classifier on RAVDESS dataset using Wav2Vec pre-trained model.",
+                "Wrote telegram bot for testing model on Russian speech and collecting more data."
             ],
-            "startDate": "2016",
-            "endDate": "2017",
-            "url": "https://bitbucket.org/thirdpin_team/pastilda",
+            "keywords": [
+                "Wav2Vec",
+                "transformers",
+                "telegram-api"
+            ],
+            "startDate": "2021",
+            "endDate": "2021",
+            "url": "https://github.com/TheoLisin/Emotion_Recognition_with_Wav2Vec",
             "roles": [
                 "Developer"
             ],
-            "entity": "Entity",
             "type": "application"
         },
         {
-            "name": "Just Run My Debugger!",
-            "summary": "Pet project, simple GUI for OpenOCD debugger.",
-            "highlights": [],
-            "keywords": [
-                "Rust",
-                "Rescript",
-                "Tauri",
-                "React"
-            ],
-            "startDate": "2021",
-            "url": "https://github.com/ila-embsys/justrunmydebugger",
-            "roles": [
-                "Developer"
-            ],
-            "entity": "Entity",
-            "type": "application"
+            "name": "Monotone Hurwitz numbers in genus zero",
+            "summary": "University-authored bachelor's thesis",
+            "keywords": ["mathematical physics", "graph theory"]
         }
     ]
 }
