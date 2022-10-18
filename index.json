@@ -164,16 +164,16 @@
             "summary": "Speech emotion recognition model based on Wav2Vec with telegam-bot user interface.",
             "highlights": [
                 "Trained 8-class classifier on RAVDESS dataset using Wav2Vec pre-trained model.",
-                "Wrote telegram bot for testing model on Russian speech and collecting more data."
+                "Developed a Telegram bot to gather more data and test the model on Russian speech."
             ],
             "keywords": [
                 "Wav2Vec",
                 "transformers",
                 "telegram-api"
             ],
-            "startDate": "2021",
-            "endDate": "2021",
             "url": "https://github.com/TheoLisin/Emotion_Recognition_with_Wav2Vec",
+            "startDate": "2021-06-01",
+            "endDate": "2021-07-01",
             "roles": [
                 "Developer"
             ],
@@ -181,6 +181,8 @@
         },
         {
             "name": "Monotone Hurwitz numbers in genus zero",
+            "startDate": "2019-09-01",
+            "endDate": "2020-07-01",
             "summary": "University-authored bachelor's thesis",
             "keywords": ["mathematical physics", "graph theory"]
         }
