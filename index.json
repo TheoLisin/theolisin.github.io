@@ -34,6 +34,16 @@
     },
     "work": [
         {
+            "name": "Supervisely OÜ",
+            "position": "Python Developer",
+            "url": "https://supervise.ly/",
+            "startDate": "2023-03",
+            "summary": "Create a new app on the Supervisely platform and provide client tech help.",
+            "highlights": [
+                "App for tracking on video of points, polygons, and rectangles using linear interpolation and NN.",
+            ]
+        },
+        {
             "name": "OCRV, Russian Railways affiliated company",
             "position": "Junior Data Scientist",
             "url": "https://www.ocrv.ru/",
