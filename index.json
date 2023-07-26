@@ -39,7 +39,9 @@
             "startDate": "2023-03",
             "summary": "Create a new app on the Supervisely platform and provide client tech help.",
             "highlights": [
-                "App for tracking on video of points, polygons, and rectangles using linear interpolation and NN."
+                "Developed new SOTA model training and serving applications for the Supervisely ecosystem (PIPs, YOLO, MMDetection, MixFormer etc.).",
+                "Enhanced capabilities of the SDK: support for point and object tracking with NN models and linear interpolation",
+                "Provided platform users with technical support"
             ]
         },
         {
