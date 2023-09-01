@@ -77,7 +77,7 @@
             "startDate": "2022",
             "endDate": "2023",
             "courses": []
-        }
+        },
     ],
     "awards": [],
     "certificates": [
@@ -88,9 +88,10 @@
             "issuer": "Coursera, Stanford University"
         },
         {
-            "name": "Artificial Intelligence Technology | 6-month course",
-            "date": "2021-08-10",
-            "issuer": "Yandex School of data analysis"
+            "name": "Machine Learning Engineer",
+            "date": "2023-07",
+            "issuer": "MADE Data Academy",
+            "url": "https://data.vk.company/curriculum/certificates/download/12961/f84e3606-6030-4ce7-895f-4b2defe55aff/"
         }
     ],
     "publications": [],
