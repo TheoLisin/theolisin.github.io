@@ -2,7 +2,7 @@
     "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/schema.json",
     "basics": {
         "name": "Fedor Lisin",
-        "label": "Junior Data Scientist",
+        "label": "Data Scientist",
         "email": "theo.lisin@gmail.com",
         "phone": "995 (574) 019-368",
         "url": "https://theolisin.github.io",
@@ -46,7 +46,7 @@
         },
         {
             "name": "OCRV, Russian Railways affiliated company",
-            "position": "Junior Data Scientist",
+            "position": "Data Scientist",
             "url": "https://www.ocrv.ru/",
             "startDate": "2021-09",
             "endDate": "2022-09",
