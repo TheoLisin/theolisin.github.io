@@ -73,5 +73,5 @@ jobs:
         uses: actions/upload-artifact@v3
         with:
           name: resume.pdf
-          path: ./public/resume.?.pdf
+          path: ./public/resume.pdf
           retention-days: 30
