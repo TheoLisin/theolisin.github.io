@@ -37,6 +37,7 @@
             "position": "Python Developer",
             "url": "https://supervise.ly/",
             "startDate": "2023-03",
+            "endDate": "2023-12",
             "summary": "Create a new app on the Supervisely platform and provide client tech help.",
             "highlights": [
                 "Developed new SOTA model training and serving applications for the Supervisely ecosystem (PIPs, YOLO, MMDetection, MixFormer etc.).",
