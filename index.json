@@ -33,10 +33,17 @@
     },
     "work": [
         {
+            "name": "Huawei",
+            "position": "Python Developer",
+            "url": "https://www.huawei.ru/",
+            "startDate": "2024-02",
+            "summary": "Research on ways to improve the quality of service (QoS) in Wi-Fi systems."
+        },
+        {
             "name": "Supervisely OÜ",
             "position": "Python Developer",
             "url": "https://supervise.ly/",
-            "startDate": "2023-03",
+            "startDate": "2023-01",
             "endDate": "2023-12",
             "summary": "Create a new app on the Supervisely platform and provide client tech help.",
             "highlights": [
