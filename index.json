@@ -2,7 +2,7 @@
     "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/schema.json",
     "basics": {
         "name": "Fedor Lisin",
-        "label": "Data Scientist",
+        "label": "Research Engineer",
         "email": "theo.lisin@gmail.com",
         "phone": "+7 (965) 004-85-95",
         "url": "https://theolisin.github.io",
