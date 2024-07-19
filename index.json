@@ -37,7 +37,12 @@
             "position": "Research Engineer",
             "url": "https://www.huawei.ru/",
             "startDate": "2024-02",
-            "summary": "Research on ways to improve the quality of service (QoS) in Wi-Fi systems with Federated learning."
+            "summary": "Research on ways to improve Wi-Fi quality of service (QoS) and solve optical tasks.",
+            "highlights": [
+                "Developed model for traffic delay prediction and improved simulation of the GPON system using NS3 library (Classinc ML, C++)",
+                "Set up an environment to simplify and accelerate the work of the team: S3 storage for raw data, MLFlow for experiment logging (Docker)",
+                "Researched symbolic regression methods for tasks involving optical physics models (RL, FunSearch, MCTS)"
+            ]
         },
         {
             "name": "Supervisely OÜ",
@@ -45,11 +50,11 @@
             "url": "https://supervise.ly/",
             "startDate": "2023-01",
             "endDate": "2023-12",
-            "summary": "Create a new app on the Supervisely platform and provide client tech help.",
+            "summary": "Create a new app on the Supervisely platform for model serving and training",
             "highlights": [
-                "Developed new SOTA model training and serving applications for the Supervisely ecosystem (PIPs, YOLO, MMDetection, MixFormer etc.).",
+                "Developed new SOTA model training and serving applications for the Supervisely ecosystem (PIPs, YOLO, MMDetection, MixFormer etc.)",
                 "Enhanced capabilities of the SDK: support for point and object tracking with NN models and linear interpolation",
-                "Provided platform users with technical support"
+                "Found and fixed several critical bugs in the cache functionality, which was causing applications to crash"
             ]
         },
         {
@@ -60,9 +65,9 @@
             "endDate": "2022-09",
             "summary": "Developed different models from scratch for tabular data and time series, upgraded the current data infrastructure, supervised the students' self-study pet projects.",
             "highlights": [
-                "Train delay investigation system: improving data infrastructure, time to create the final dataset was at least cut in half. (Catboost, SQL, ClickHouse)",
+                "Train delay investigation system: improving data infrastructure with PySpark, time to create the final dataset was at least cut in half. (Catboost, PySpark, ClickHouse)",
                 "EEG motor imaginary classification: examining the primary methods for getting, classifying, and filtering EEG data, as well as developing experimental data collection methods. (ICA, SSP, WPD)",
-                "Recommendation system for ticket sales (students project): aided students in using their repository and fixed django framework issues. (Git, Conda, Django)"
+                "Recommendation system for ticket sales: assisted interns with GIT and Django, helping to implement baseline solutions. (Git, Conda, Django)"
             ]
         }
     ],
