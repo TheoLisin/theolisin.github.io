@@ -54,7 +54,7 @@
             "highlights": [
                 "Developed new SOTA model training and serving applications for the Supervisely ecosystem (PIPs, YOLO, MMDetection, MixFormer etc.)",
                 "Enhanced capabilities of the SDK: support for point and object tracking with NN models and linear interpolation",
-                "Found and fixed several critical bugs in the cache functionality, which was causing applications to crash"
+                "Found and fixed several critical bugs in the cache functionality, which was causing applications to crash (Pytest, Asyncio)"
             ]
         },
         {
@@ -121,7 +121,7 @@
         },
         {
             "name": "Python Development",
-            "level": "Intermediate",
+            "level": "Advanced",
             "keywords": [
                 "FastAPI",
                 "Pydantic",
