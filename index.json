@@ -33,10 +33,18 @@
     },
     "work": [
         {
+            "name": "Joom",
+            "position": "Junior ML Engineer",
+            "url": "https://www.joom.ru/",
+            "startDate": "2025-02",
+            "summary": "Improving the capabilities of the recommendation system, supporting the operation of the infrastructure"
+        },
+        {
             "name": "Huawei",
             "position": "Research Engineer",
             "url": "https://www.huawei.ru/",
             "startDate": "2024-02",
+            "endDate": "2025-02",
             "summary": "Research on ways to improve Wi-Fi quality of service (QoS) and solve optical tasks.",
             "highlights": [
                 "Developed model for traffic delay prediction and improved simulation of the GPON system using NS3 library (Classinc ML, C++)",
