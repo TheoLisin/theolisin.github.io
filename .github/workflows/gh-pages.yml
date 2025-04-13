@@ -70,7 +70,7 @@ jobs:
           tag_message: "Deployment ${{ steps.prepare_tag.outputs.tag_name }}"
 
       - name: 'Upload PDF'
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: resume.pdf
           path: ./public/resume.pdf
